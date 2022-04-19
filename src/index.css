@@ -37,10 +37,9 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  background: var(--color-bg);
+  background: linear-gradient(to right,#3e3e85, var(--color-bg));
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/bg-text.png);
 }
 
 /****************** general style *********************/
